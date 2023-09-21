@@ -7,5 +7,10 @@ body{
     color:black;
 }
 .principal{
-   background-image:url(img/images\ 1.png)
+   background-image:url(img/images\ 1.png);
+   background-repeat:no-repeat;
+   backgrond-size:contain;
+}
+.container{
+    height: 100vh;
 }
